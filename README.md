@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tosin Aderanti (@eltosin11)
+- 👋 Hi, I’m Tosin Aderanti, PhD (@eltosin11)
 - 👀 I’m interested in Data Science (Machine Learning, Deep Learning, Natural Language Processing), Program Evaluation and Causal Inference
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects at the intersection of Applied Economics and Data Science
