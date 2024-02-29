@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects at the intersection of Applied Economics and Data Science
 - 📫 You can reach me at eltosin@gmail.com
 - ⚡ Fun fact: I love Zumba
-- 👀 Check out some of my recent projects below
+- 👀 Check out some of my recent projects 
 
 <!---
 eltosin11/eltosin11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
