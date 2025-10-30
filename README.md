@@ -3,7 +3,7 @@
 - 🌱 I enjoy programming 
 - 💞️ I’m looking to collaborate on projects at the intersection of Applied Economics and Data Science
 - ⚡ Fun fact: I love Zumba
-- 👀 Check out some of my recent projects 
+- 👀 Check out some of my projects 
 
 <!---
 eltosin11/eltosin11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
